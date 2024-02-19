@@ -14,6 +14,9 @@
 ## Download the project
 Download the project files
 
+## Possible error
+There is a possibility that the following message may appear: "Some packages are missing out of date, would you like to get them now?". You need to run "pub get" or "flutter pub get".
+
 ## Run the app
 ```
 flutter run
